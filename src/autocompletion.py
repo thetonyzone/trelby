@@ -23,7 +23,11 @@ class AutoCompletion:
             "FADE IN:",
             "FADE OUT",
             "FADE TO BLACK",
-            "MATCH CUT TO:"
+            "MATCH CUT TO:",
+            "FADE TO:",
+            "JUMP CUT TO:",
+            "BACK TO:",
+            "SMASH CUT TO:"
             ]
         self.types[t.ti.lt] = t
 
